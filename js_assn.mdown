@@ -12,7 +12,9 @@ https://github.com/zmcpher23/JavaScript-Assignment.git
 Now that you have cloned the source code into a directory on your personal computer, 
 fill out five simple functions we have defined so that they work as described in the comments.
 
-If you have any issues or questions ask!
+Once you have finished the assignment, email your completed jspractice file to *snapdecal@gmail.com*
+
+If you have any issues or questions stick around after lecture and one of the facilitators will assist you.
 
 
 
