@@ -1,0 +1,22 @@
+#Intro to *Java Script*!
+
+##Part 1
+###A few practice functions [**Required**]
+
+The source file for this homework assignment can be obtained from my github.
+
+You will need to use the git clone command on the following repo link:
+
+https://github.com/zmcpher23/JavaScript-Assignment.git
+
+Now that you have cloned the source code into a directory on your personal computer, 
+fill out five simple functions we have defined so that they work as described in the comments.
+
+If you have any issues or questions ask!
+
+
+
+##Part 2
+###Something a little more challenging [**OPTIONAL**]
+
+Go the the decal course website to obtain the skeleton code/instrucions for this assignment.
