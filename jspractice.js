@@ -5,7 +5,7 @@
                 // >>> doubleString("hello")
                 // "hellohello"
 
-                return // YOUR CODE HERE
+                return (s + s)
             }
 
             // QUESTION 2
@@ -16,7 +16,7 @@
                 // >>> firstThree(["a", "b", "c", "d"])
                 // "a,b,c"
 
-                return // YOUR CODE HERE
+                return arr[0] + "," + arr[1] + ","+ arr[2]
             }
 
             // QUESTION 3
@@ -32,7 +32,11 @@
                 // >>> bigOrSmall(-2)
                 // "small-2"
 
-                // YOUR CODE HERE
+                if (n > 10) {
+                    return ("big" + n);
+                } else {
+                    return ("small" + n);
+                }
             }
 
             // QUESTION 4
@@ -41,15 +45,24 @@
                 // Example:
                 // >>> sumOfFirstNSquares1(3)
                 // 14
-
-                // YOUR CODE HERE
+                index = n
+                total = 0
+                while (index > 0) {
+                    total = total + Math.pow(index, 2);
+                    index --;
+                }
+                return total
             }
 
             // QUESTION 5
             function sumOfFirstNSquares2(n) {
                 // Same as above, but use a for loop!
 
-                // YOUR CODE HERE
+                total = 0;
+                for (i=0; i<=n; i++) {
+                    total = total + Math.pow(i, 2);
+                }
+                return total
             }
 
             // You can ignore the stuff below.
